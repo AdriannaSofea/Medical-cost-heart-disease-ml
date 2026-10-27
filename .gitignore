@@ -1,0 +1,10 @@
+# datasets and saved models are not uploaded
+all_datasets/
+*.csv
+models/
+*.joblib
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
